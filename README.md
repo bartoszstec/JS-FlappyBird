@@ -7,9 +7,13 @@ To run this project, you need a Live Server or any local server setup to serve t
 
 # Features
 Classic Flappy Bird gameplay
+
 Dynamic difficulty increase as you progress
+
 Score tracking
+
 Collision detection
+
 Simple and clean UI design
 
 # Getting Started
