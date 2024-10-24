@@ -35,11 +35,14 @@ Spacebar: Flap the bird's wings (fly upwards)
 
 # Technologies Used
 HTML5: For structuring the game interface
+
 CSS3: For styling the game elements
+
 JavaScript: For game logic and interactivity
 
 # Credits
 Inspired by the original Flappy Bird game.
+
 Background and pipe assets used in this game are free-to-use assets.
 
 # License
