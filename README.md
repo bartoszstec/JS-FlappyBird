@@ -2,6 +2,8 @@
 # Overview
 Flappy Bird is a simple, browser-based game inspired by the classic arcade game. The goal is to navigate the bird through a series of pipes without crashing. This project is built using HTML, CSS, and JavaScript.
 
+![screenshot](screenshot.jpg)
+
 # Prerequisites
 To run this project, you need a Live Server or any local server setup to serve the game files correctly. You can use Visual Studio Code with the Live Server extension, or any other HTTP server of your choice.
 
